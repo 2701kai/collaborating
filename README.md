@@ -36,7 +36,7 @@ git checkout -b [branch-name] # DEIN Name z.B.
 
    dort:
 
-   ## siehe unten: "Daumenkino"
+   ## siehe unten: [Daumenkino](https://github.com/2701kai/collaborating#daumenkino)"
 
    ---
 
