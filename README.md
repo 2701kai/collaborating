@@ -18,6 +18,21 @@ Instructions:
    ---
 
 
+### Hallo, ich heiße kai und bin digitaler Neandertaler..
+
+### 9-bar-espresso Bohnen mahlen, kochen, fertig.
+
+### Lieblingsklasse = eternal &#10084;
+
+> pushen:
+
+```bash
+git push --set-upstream origin kai
+# aus branch kai
+```
+
+---
+
 ### Hey, **I'm Robb**, 29 years old, finished my M.Sc. in Business Administration and atm I'm participating in a web development course for one year, learning HTML, CSS and JavaScript.
 
 ### **Espresso Martini:** 50% Espresso, 50% Martini
