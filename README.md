@@ -23,4 +23,11 @@ Instructions:
 
 ### Lieblingsklasse = eternal &#10084;
 
+> pushen:
+
+```bash
+git push --set-upstream origin kai
+# aus branch kai
+```
+
 ---
