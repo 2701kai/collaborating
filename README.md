@@ -16,3 +16,11 @@ Instructions:
    Once you have reviewed each other's work, merge the branches to the main.
 
    ---
+
+### Hallo, ich heiße kai und bin digitaler Neandertaler..
+
+### 9-bar-espresso Bohnen mahlen, kochen, fertig.
+
+### Lieblingsklasse = eternal &#10084;
+
+---
