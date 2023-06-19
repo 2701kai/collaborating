@@ -5,11 +5,29 @@ Collabs
 Instructions:
 
    Create one repository on GitHub named "collaborating" and add your partner as a collaborator.
+   > auf github Homepage: create new - add collaborateur - die/der muss per mail bestätigen..
 
    On separate branches, you both should add the following to the readme.
-        A short bio of themselves.
+   > git clone "this repo"
+
+   `git clone git@github.com:2701kai/collaborating.git`
+
+   ---
+
+   Add to README.md:
+
+   A short bio of themselves.
         The recipe for your favourite dish.
         The definition of a word.
+
+```bash
+git checkout -b [branch-name] # DEIN Name z.B. 
+# dann die README.md ändern.. / lokal speichern mit "STRG + s"
+# git add .
+# git commit -m "Dein Kommentar"
+# git push
+
+```
 
    Then, both of you make a pull request for your branches and assign the other person.
 
